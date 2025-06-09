@@ -47,3 +47,8 @@ cribl_repo_clone
 git*
 **/local/git*
 code*
+node_module
+git push1.py
+git_push2.py
+git_push_har.py
+gitfinal.py
