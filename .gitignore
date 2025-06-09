@@ -44,3 +44,6 @@ git_pull.py
 myenv
 gitpull*
 cribl_repo_clone
+git*
+**/local/git*
+code*
