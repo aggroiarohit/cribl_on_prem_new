@@ -34,7 +34,7 @@ ha-version.txt
 *.db-shm
 .nfs*
 ### CUSTOM SECTION -- DO NOT REMOVE ###
-
+node_modules
 git_push.py
 git_push1.py
 git_push2.py
@@ -48,7 +48,7 @@ git*
 **/local/git*
 code*
 node_modules
-git push1.py
+git_push1.py
 git_push2.py
 git_push_har.py
 gitfinal.py
